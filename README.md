@@ -21,3 +21,9 @@ You should see virtual environment, README, configuration, and server.py files i
 
 uv run mcp install server.py -> If you already have Claude Desktop, your mcp server will be added to Claude Config
 
+# Setting Up GitHub MCP Server to allow LLM integration to manage GitHub account
+
+Reference: https://www.youtube.com/watch?v=0Z1JnSq4CsA
+
+
+
