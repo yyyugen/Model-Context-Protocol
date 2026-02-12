@@ -19,6 +19,8 @@ uv add "mcp[cli]"
 
 You should see virtual environment, README, configuration, and server.py files in the mcp-server. The server.py file is where you programed mcp tools and resources that the LLM agent can use.
 
+pip install "mcp[cli]"
+
 uv run mcp install server.py -> If you already have Claude Desktop, your mcp server will be added to Claude Config
 
 # Setting Up GitHub MCP Server to allow LLM integration to manage GitHub account
